@@ -51,6 +51,10 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Outstanding customer/ clientservice",
+  "Outgoing personality as individual or within a team",
+  "Proven skill of consistently driving sales",
+  "Ability to quicky adapt and communicate under pressure",
   "JavaScript",
   "React",
   "Node.js",
