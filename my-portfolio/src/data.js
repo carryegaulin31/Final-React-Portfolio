@@ -56,6 +56,7 @@ export const skills = [
   "Proven skill of consistently driving sales",
   "Ability to quicky adapt and communicate under pressure",
   "Ability to think outside the box to find creative solutions",
+  "Software Design",
   "JavaScript",
   "React",
   "Node.js",
