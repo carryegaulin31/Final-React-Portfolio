@@ -1,19 +1,19 @@
 export const projects = [
   {
-    title: "Great Novels API",
-    subtitle: "Express, Node, MySQL",
-    description:
-      "API of select list of the all time greats. Accesibility to novels, authors or genres and any combination in between. Entire project built from scratch to run concurrently not using create React. Fuzzy search available for titles and authors.",
-    image: "./novels.gif",
-    link: "",
-  },
-  {
     title: "DeisHacks",
     subtitle: "Built with React Native, Express, MySQL and Nodemon. Click to view presentation",
     description:
       "Collaborated with a team of six to build a mobile application for the Boston Police Teen Academy to keep teens and mentors connected in a safe space during and after the programas well as giving access to one-on-one support, community mental and physical health and events. Worked closely with client/founder to diagnose and prioritize features and services that should be included in the final product. Application built from idea to MVP in 48 hours. My primary contribution was backend. Final product exceeded the expectations of the client as well as won a top prize in the hack-a-thon.",
     image: "./BPTASnap.png",
     link: "https://youtu.be/8tXSfM07E7E",
+  },
+  {
+    title: "Great Novels API",
+    subtitle: "Express, Node, MySQL",
+    description:
+      "API of select list of the all time greats. Accesibility to novels, authors or genres and any combination in between. Entire project built from scratch to run concurrently not using create React. Fuzzy search available for titles and authors.",
+    image: "./novels.gif",
+    link: "",
   },
   {
     title: "Once-and-Floral UI",
