@@ -24,12 +24,12 @@ export const projects = [
     link: "",
   },
   {
-    title: "Memory Game",
-    subtitle: "React, Next.js, React Spring",
+    title: "Squid Game One(Red Light, Green Light)",
+    subtitle: "HTML/CSS/JS, GTFL Loader, Three.min.js",
     description:
-      "Another project I am excited to get started creating a memory game from scratch and learn more about Next.js",
-    image: "./project-3.gif",
-    link: "",
+      "This may be the most fun side project I've built from scratch to date. Working with 3D models to make this simple, yet relevant and fun game was the highlight of my month! With Three.min.js the possibilities are truly endless and I look forward to working with it much more. Can you make it through this game. It is quite simple Up Arrow to go, Down Arrow to stop. Good luck!",
+    image: "./startForward.png",
+    link: "https://relaxed-shannon-49deb5.netlify.app/",
   },
 ];
 
@@ -51,13 +51,15 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "Outstanding customer/client service",
+  "Outstanding customer/client relations",
   "Outgoing personality as individual or within a team",
-  "Proven skill of consistently driving sales",
+  "Proven ability to consistently drive sales",
   "Ability to quicky adapt and communicate under pressure",
-  "Ability to think outside the box to find creative solutions",
+  "Able to think outside the box to find creative solutions",
+  "Comfortable with condensed fast-paced learning",
+  "Expert attention to detail",
   "Management",
-  "Teaching/training/coaching",
+  "Teaching/Training/Coaching",
   "Software Design",
   "JavaScript",
   "React",
@@ -70,6 +72,7 @@ export const skills = [
   "REST API",
   "Postman",
   "Lucid Charts",
-  "TDD testing/Mocha/Chai/Sinon"
-  
+  "TDD Testing/Mocha/Chai/Sinon",
+  "Digital Marketing Campaign Management",
+  "Web Content Management"
 ];
