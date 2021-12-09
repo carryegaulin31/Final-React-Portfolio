@@ -5,7 +5,7 @@ export const projects = [
     description:
       "API of select list of the all time greats. Accesibility to novels, authors or genres and any combination in between. Fuzzy search available for titles and authors.",
     image: "./novels.gif",
-    link: "http://novelsapi-env.eba-uftmpdwp.us-east-2.elasticbeanstalk.com/",
+    link: "",
   },
   {
     title: "DeisHacks",
