@@ -27,7 +27,7 @@ export const projects = [
     title: "Squid Game One(Red Light, Green Light)",
     subtitle: "HTML/CSS/JS, GTFL Loader, Three.min.js",
     description:
-      "This may be the most fun side project I've built from scratch to date. Working with 3D models to make this simple, yet relevant and fun game was the highlight of my month! With Three.min.js the possibilities are truly endless and I look forward to working with it much more. Can you make it through this game. Click here to find out. It is quite simple Up Arrow to go, Down Arrow to stop. Good luck!",
+      "This may be the most fun side project I've built from scratch to date. Working with 3D models to make this simple, yet relevant and fun game was the highlight of my month! With Three.min.js the possibilities are truly endless and I look forward to working with it much more. Can you make it through this game? Click here to find out. It is quite simple, Up Arrow to go, Down Arrow to stop. Good luck!",
     image: "./startForward.png",
     link: "https://relaxed-shannon-49deb5.netlify.app/",
   },
